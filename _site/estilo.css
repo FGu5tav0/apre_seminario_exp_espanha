@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@100..700&display=swap'); /* Importa a fonte Roboto Bold */
+
+.reveal {
+  width: 100vw;  /* Ocupa toda a largura da viewport */
+  height: 100vh; /* Ocupa toda a altura da viewport */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  color: #000;
+  font-family: 'M PLUS Code Latin', serif;
+}
+
+.reveal .slides > section:not(.title-slide) {
+  background: #fff;
+  margin: auto;
+  padding: 0px;
+  padding-left: 50px;
+  padding-right: 40px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 01); /* Borda sombreada */
+  border-radius: 0px; /* Bordas arredondadas para um efeito mais suave */
+  box-sizing: border-box;  /* Inclui o padding no cálculo da largura/altura */
+  font-family: 'M PLUS Code Latin', serif;
+  background-image: url(ima/fundo_1.png);
+  background-repeat: no-repeat;
+  background-size: calc(100% - 40px);
+  background-position: 1560px center;
+}
+
+.reveal section {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  box-sizing: border-box;  /* Inclui o padding no cálculo da largura/altura */
+}
+
+/* Garante que os títulos e o texto dentro dos slides também usem a mesma fonte */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6,
+.reveal p, .reveal ul, .reveal ol, .reveal li {
+  font-family: 'M PLUS Code Latin', serif;
+  padding-right: 100px;
+  padding-top: 20px;
+
+}
+
+.reveal p{
+    font-size: 35px;
+}
+
+
+#title-slide {
+  background: linear-gradient(to right, rgba(54 , 59, 85, 0.9) , #fff 30%);
+  background-image: url(ima/fundo_2.png),  url(ima/fundo_1.png);
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: calc(100% - 40px), auto;
+  background-position: -1150px center, 1560px center;
+  text-align: left;
+  padding-left: 525px;
+  color: #042940;
+
+  .title {
+  padding-right: 10px;
+  padding-top: 150px;
+  font-size: 55px !important;
+  font-weight: bold;
+  color: #042940;
+
+}
+
+  .subtitle {
+  padding-right: 10px;
+  padding-top: 10px;
+  font-size: 45px !important;
+}
+
+  .date {
+    color: #042940;
+    font-size: 35px;
+    padding-top: 100px;
+    padding-left: 0px;
+  }
+
+  .quarto-title-affiliation {
+    font-size: 33px;
+    font-weight: regular;
+    padding-top: 10px;
+
+}
+
+  .quarto-title-authors {
+    justify-content: left;
+    font-weight: bold;
+    font-size: 43px;
+    padding-top: 150px;
+    padding-left: 0px;
+
+
+    .quarto-title-author {
+      padding-left: 0;
+      padding-right: 0;
+      width: 100%;
+    }
+  }
+}
+
+.custom-title {
+  text-align: justify;
+  font-size: 30px;
+  display: flex;
+  margin-top: 300px;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100vh; /* Faz o container ocupar toda a altura da página */
+  text-align: center; /* Centraliza o texto dentro */
+  flex-direction: column; /* Alinha os itens na vertical */
+}
+
+.caixa-pequena {
+  position: absolute;
+  top: 760px;
+  left: 50px;
+  width: 380px;              /* controla largura */
+  text-align: center;
+  display: flex;
+  margin-top: 0px;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100px; /* Faz o container ocupar toda a altura da página */
+  text-align: center; /* Centraliza o texto dentro */
+  padding: 0; /* remove o espaço interno */
+  margin: 0;  /* opcional: remove espaço externo */
+  border-radius: 0px;
+}
+
+.caixa-pequena2 {
+  position: absolute;
+  top: 760px;
+  left: 550px;
+  width: 380px;              /* controla largura */
+  text-align: center;
+  display: flex;
+  margin-top: 0px;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100px; /* Faz o container ocupar toda a altura da página */
+  text-align: center; /* Centraliza o texto dentro */
+  padding: 0; /* remove o espaço interno */
+  margin: 0;  /* opcional: remove espaço externo */
+  border-radius: 0px;
+}
+
+.caixa-pequena3 {
+  position: absolute;
+  top: 760px;
+  left: 1100px;
+  width: 380px;              /* controla largura */
+  text-align: center;
+  display: flex;
+  margin-top: 0px;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100px; /* Faz o container ocupar toda a altura da página */
+  text-align: center; /* Centraliza o texto dentro */
+  padding: 0; /* remove o espaço interno */
+  margin: 0;  /* opcional: remove espaço externo */
+  border-radius: 0px;
+}

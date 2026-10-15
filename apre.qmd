@@ -1,0 +1,657 @@
+---
+title: "Doutorado Sanduíche:"
+subtitle: "Experiência na Universidad de Córdoba - ESP"
+date: "2025-05-21"
+author:
+  - name: "Dayana Eckert"
+    id: dy
+    affiliation: 
+      - name: "Doutoranda em Ciência do Solo - UFRGS"
+        city: Porto Alegre, RS
+        url: http://www.ufrgs.br/ufrgs/inicial
+  - name: "Gustavo Frosi"
+    id: gf
+    affiliation: 
+      - name: "Doutorando em Ciência do Solo - UFRGS"
+        city: Porto Alegre, RS
+        url: http://www.ufrgs.br/ufrgs/inicial
+incremental: true
+# slide-number: true
+# show-slide-number: all
+# title-slide-attributes:
+  # data-background-color: "#2c3e50"
+  # data-background-image: "teste.png"
+  # data-background-opacity: "0.8"
+# title-slide-style: pandoc
+center-title-slide: true
+# show-notes: false
+# rtl: false
+# logo: "ima/FS.png"
+# footer: '<img src="ima/FS.png" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 0px;"> <a href="https://gustavofrosi.com.br/" target="_blank">gustavofrosi.com.br</a>'
+scrollable: true
+smaller: false
+output-location: slide
+overview: true
+menu: false
+# # transition: fade
+# transition-speed: default
+# background-transition: fade
+auto-animate: true
+progress: false
+history: false
+margin: 0.01
+format: 
+  revealjs:
+    width: 1580  # Largura em pixels
+    height: 920  # Altura em pixels
+    # theme: dark
+    css: estilo.css
+    # html:
+    #   embed-resources: true
+execute:
+  exclude: true
+editor_options: 
+  
+  chunk_output_type: console
+---
+
+## Preparação anterior ao edital
+<hr>
+
+Doutorado "meio" encaminhado;
+
+- Créditos concluídos;
+
+- Tempo hábil para defesa após o retorno;
+
+- Definir o destino;
+
+- Exame de proficiência em línguas;
+
+- Exame de qualificação;
+
+- Contato e aceite do orientador estrangeiro.
+
+## O edital
+<hr>
+
+![](ima/edital_qr.svg){.absolute top=0 left=1250 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);"}
+
+![](ima/edital_1.png){.fragment data-fragment-index="1" .absolute top=250 left=20 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/edital_2.png){.fragment data-fragment-index="2" .absolute top=280 left=780 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## O edital
+<hr>
+
+![](ima/edital_3.png){.fragment data-fragment-index="1" .absolute top=250 left=20 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/edital_4.png){.fragment data-fragment-index="2" .absolute top=500 left=380 width=950 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## O edital
+<hr>
+
+![](ima/edital_5.png){.fragment data-fragment-index="1" .absolute top=180 left=20 width=950 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/edital_6.png){.fragment data-fragment-index="2" .absolute top=500 left=20 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/edital_7.png){.fragment data-fragment-index="2" .absolute top=500 left=800 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+
+## Tramites necessários
+<hr>
+
+::: {.nonincremental}
+- Passaporte;
+
+- Visto - Consulado;
+
+- Cartório;
+
+- Seguro saúde;
+
+- Passagem e moradia.
+
+:::
+
+![](ima/pas_1.jpg){.absolute top=230 left=650 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/pas_3.png){.absolute top=130 left=1100 width=300 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/pas_2.jpg){.absolute top=500 left=1020 width=500 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Sorte vs Sorte
+<hr>
+
+![](ima/sorte_1.png){.fragment data-fragment-index="1" .absolute top=200 left=50 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/sorte_2.png){.fragment data-fragment-index="1" .absolute top=500 left=100 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/sorte_3.png){.fragment data-fragment-index="2" .absolute top=200 left=1000 width=450 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## O tamanho da Sorte
+<hr>
+
+![](ima/hist_sorte.jpeg){.fragment data-fragment-index="1" .absolute top=180 left=330 width=950 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+```{r}
+#| include: false
+
+library(tidyverse)
+library(ggtext)
+library(gamlss)
+library(latex2exp)
+
+df <- readxl::read_excel("Pasta1.xlsx")
+
+n_sucessos <- sum(df$sanduiche == "s")
+n_total <- nrow(df)
+p_sucesso <- n_sucessos / n_total
+
+# n_sucessos <- 23L
+# n_total <- 85L
+# p_sucesso <- n_sucessos / n_total
+
+x <- 0:85
+prob <- dbinom(x, size = n_total, prob = p_sucesso)
+# dbinom(80, size = n_total, prob = p_sucesso)
+# prob <- pbinom(1, size = n_total, prob = p_sucesso)
+
+binom_df <- data.frame(sucessos = x, probabilidade = prob)
+
+# modelo
+# df$s <- ifelse(df$sanduiche == "s", 1, 0)
+
+# Modelo binomial (Bernoulli): probabilidade de sucesso
+# modelo <- glm(s ~ 1, family = binomial, data = df)
+
+# modelo <- gamlss(s ~ 1,
+#                  family = BI(mu.link = "log"),
+#                  data = df)
+
+# summary(modelo)
+# coef(modelo) |> exp() |> as.data.frame()
+# plot(modelo)
+###
+
+# histograma ----------------
+
+github_icon <- "&#xf09b"
+git_gf <- "FGu5tav0"
+
+social_caption <- glue::glue(
+  "<span style='font-family:\"Font Awesome 6 Brands\";'>{github_icon};</span>
+  <span style='color: #000000'>{git_gf}</span>"
+)
+
+ggplot(binom_df, aes(x = sucessos, y = probabilidade)) +
+  geom_col(fill = "darkolivegreen1", col = "darkolivegreen4") +
+  labs(
+    title = "Distribuição Binomial",
+    subtitle = paste0("n = ", n_total, ", p = ", round(p_sucesso, 2)),
+    x = "Número de Sucessos",
+    y = "Probabilidade",
+    caption = social_caption
+  ) +
+  # geom_text(
+  #   mapping = aes(
+  #     x = 65, y = 0.065,
+  #     label = TeX(r"($X \sim Bin(85, 0.27)$)", output = "character", bold = T)
+  #   ), col = "black",
+  #   parse = TRUE,
+  #   size = 6
+  # ) +
+  scale_x_continuous(
+    expand = c(0, 0.5),
+    breaks = scales::pretty_breaks(n = 20)
+  ) +
+  # scale_y_continuous(expand = c(0, 0), limits = c(0,1)) +
+  ggthemes::theme_wsj(12) +
+  theme(
+    axis.title = element_text(),
+    plot.caption = element_textbox_simple(size = 10, hjust = -1, halign = -.05)
+  )
+
+# ggsave(filename = "hist_sorte.jpeg", width = 7, height = 5)
+```
+
+
+
+## Córdoba - ES
+<hr>
+
+![](ima/maps_br_es.jpeg){.fragment data-fragment-index="1" .absolute top=120 left=120 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/EU.jpeg){.fragment data-fragment-index="1" .absolute top=520 left=50 width=550 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/es.jpeg){.fragment data-fragment-index="1" .absolute top=220 left=650 width=850 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+::: {.notes}
+1499: O Brasil antes de Cabral 
+:::
+
+
+## Por que a Universidad de Córdoba?
+<hr>
+
+![](ima/timeline.png){width="65%" style="border: 5px solid gray90; border-radius: 5px; box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.5);"}
+
+
+
+
+## Grupo de pesquisa
+<hr>
+
+Departamento de Agronomia na unidade de Edafologia
+
+![](https://www.uco.es/organiza/departamentos/agronomia/images/img/grupos-investigacion/logo/agr-165.jpg)
+
+## Linhas de pesquisa
+<hr>
+
+Dinámica del fósforo en suelos de áreas mediterráneas. Fertilizantes inorgánicos y de base orgánica.
+
+Fijación y emisión de gases de N en suelos.
+
+Efecto de los microorganismos (hongos entomopatógenos) en la nutrición mineral de las plantas.
+
+Óxidos de Fe en suelos y propiedades magnéticas.
+
+Clorosis férrica: predicción y corrección.
+
+## Equipe Edafologia!{style="text-align: center;"}
+<hr>
+<!-- # La gratidud...{style="font-size: 20px;"} -->
+
+![](ima/todos_1.jpg){width="65%" style="border: 5px solid gray90; border-radius: 5px; box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.5);"}
+
+
+## Atividades desenvolvidas
+<hr>
+
+## Período sanduíche - Dayana
+<hr>
+
+![](ima/exp_day/resumo.jpg){width=200; fig-align="center"}
+
+## Período sanduíche - Dayana
+<hr>
+
+
+![](ima/exp_day/1.jpg){.absolute top=150 left=50 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_day/2.jpg){.absolute top=150 left=550 width=440 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_day/3.jpg){.absolute top=150 left=1100 width=400 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+<div class="caixa-pequena"; style="font-size: 28px;">
+  CTC: 15.3; pH: 5.7
+</div>
+
+<div class="caixa-pequena2"; style="font-size: 28px;">
+  CTC: 7.3; pH: 6.5
+</div>
+
+<div class="caixa-pequena3"; style="font-size: 28px;">
+  CTC: 43.4; pH: 8.1
+</div>
+
+
+
+## Período sanduíche - Dayana
+<hr>
+
+Metodologia
+
+![](ima/exp_day/tabela_mat.jpg){.absolute top=300 left=50 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_day/pesa.jpg){.absolute top=200 left=550 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_day/molha.jpg){.absolute top=200 left=1100 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Período sanduíche - Dayana
+<hr>
+
+![](ima/exp_day/p1.jpg){.absolute top=200 left=50 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_day/p2.jpg){.absolute top=200 left=550 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_day/p3.jpg){.absolute top=200 left=1100 width=380 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Período sanduíche - Dayana
+<hr>
+
+![](ima/exp_day/top1.jpg){.absolute top=150 left=350 width=950 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Período sanduíche - Dayana
+<hr>
+
+![](ima/exp_day/c1.jpg){.fragment data-fragment-index="1" .absolute top=140 left=150 width=280 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_day/c4.jpg){.fragment data-fragment-index="1" .absolute top=140 left=450 width=280 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_day/c2.jpg){.fragment data-fragment-index="2" .absolute top=140 left=750 width=280 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_day/c3.jpg){.fragment data-fragment-index="3" .absolute top=520 left=150 width=280 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_day/c5.jpg){.fragment data-fragment-index="4" .absolute top=520 left=450 width=280 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_day/text.jpg){.fragment data-fragment-index="5" .absolute top=520 left=750 width=280 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+
+
+<!-- <video  -->
+<!--   src="ima/exp_day/v1.mp4"  -->
+<!--   autoplay  -->
+<!--   muted  -->
+<!--   loop  -->
+<!--   playsinline  -->
+<!--   style="position: absolute; top: 140px; left: 1050px; width: 380px; border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"> -->
+<!--   Seu navegador não suporta vídeo em HTML5. -->
+<!-- </video> -->
+
+
+## Período sanduíche - Dayana
+<hr>
+
+Dificuldades
+
+![](ima/exp_day/m1.jpg){.fragment data-fragment-index="1" .absolute top=200 left=50 width=450 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_day/m2.jpg){.fragment data-fragment-index="2" .absolute top=200 left=530 width=450 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_day/m3.jpg){.fragment data-fragment-index="3" .absolute top=200 left=1010 width=450 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Período sanduíche - Dayana
+<hr>
+
+Dificuldades
+
+![](ima/exp_day/m4.jpg){.fragment data-fragment-index="1" .absolute top=200 left=50 width=500 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_day/m6.jpg){.fragment data-fragment-index="1" .absolute top=200 left=580 width=880 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+
+
+## Período sanduíche - Gustavo
+<hr>
+
+Área superficial específica do solo
+
+<!-- - Más rápido; -->
+<!-- - No usa reactivos; -->
+
+Testar o equipamento WP4 com amostras do Brasil para realizar a ASE
+
+::: columns
+::: {.column width="\"50%"}
+
+<br> <br>
+
+![WP4C Soil Water Potential Lab Instrument](ima/potenciometro.jpeg){width="85%" fig-align="center"}
+:::
+:::  {.column width="\"50%"}
+
+<br>
+
+$$w = \begin{bmatrix} \frac{k}{6\pi(\rho_w \psi)} \end{bmatrix}^{1/3} p_w S$$
+
+$$S = \frac{w}{\begin{bmatrix} \frac{k}{6\pi(\rho_w \psi)} \end{bmatrix}^{1/3} p_w}$$
+
+:::
+:::
+
+## Período sanduíche - Gustavo
+<hr>
+
+Área superficial específica do solo
+
+Resultado:
+
+![](ima/ssa.jpeg){width=500 fig-align="center"}
+
+## Período sanduíche - Gustavo
+<hr>
+
+Quantificação de fases minerais com o método de Rietveld
+
+![](ima/ghost.png){.absolute top=60 left=1100 width=400}
+<br>
+$Y_i = \sum_p \left[ S_p \sum_k \left[ L_k P_k H_k \left| F_k \right|^2 G(\Delta \Theta_{ik}) PO_k \right] \right] + y_{bi}$
+
+<br><br>
+
+::: {.fragment}
+::: columns
+::: {.column width="\"50%"}
+
+![](ima/rietveld.jpg){style="border: 1px solid black;"}
+
+
+:::
+::: {.column width="\"50%"}
+
+![](ima/rietveld.jpeg){style="border: 1px solid black;"}
+:::
+:::
+:::
+
+## Período sanduíche - Gustavo
+<hr>
+
+Lâminas orientadas de argila
+
+Conhecer qual mineral 2:1 está presente na fração argila.
+
+::: {.fragment}
+::: columns
+::: {.column width="\"60%"}
+
+![](ima/laminas2.jpg){.absolute top=300 left=50 height=400 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);"}
+
+![](ima/laminas.jpg){.absolute top=400 left=400 height=450 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);"}
+:::
+::: {.column width="\"20%"}
+
+
+::: {.nonincremental}
+- MgCl~2~;
+- KCl;
+- Etilenglicol.
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+:::
+:::
+:::
+
+## Período sanduíche - Gustavo
+<hr>
+
+Refletância Difusa
+
+- Kubelka-Munk: $\frac{K_\lambda}{S_\lambda} = \frac{(1-R_\lambda)^2}{2R_\lambda}$
+
+- Cubic spline: $S_i(x) = a_i (x - x_i)^3 + b_i (x - x_i)^2 + c_i (x - x_i) + d$
+
+- 2ª derivada: $S''_i(x) = 6a_i (x - x_i) + 2b_i$
+
+- Scheinost, 1998: $\frac{Hm}{(Hm+Gt)} = -0.068 + 1.325 * \frac{y_2}{(y_2 + y_1)}$
+
+
+![](ima/refle_dif_suane.jpeg){.absolute top=120 left=1150 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);"}
+
+![](ima/artigo_sche.png){.absolute top=500 left=1150 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);"}
+
+## OxSR - Soil Iron Oxides via Diffuse Reflectance
+<hr>
+
+![](ima/qr_oxsr.svg){.absolute top=0 left=1250 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);"}
+
+::: {.fragment}
+::: columns
+::: {.column width="\"60%"}
+
+![](ima/OxSR.png){fig-alt="height" fig-align="center" width="65%"}
+
+:::
+
+::: {.column width="\"55%"}
+
+<br>
+
+O OxSR tem como objetivo realizar a determinação da $Hm/Gt = \frac{Hm}{(Hm+Gt)}$ por meio da análise de refletância difusa. Além disso, calcula a cor do solo.
+
+:::
+:::
+:::
+
+## OxSR
+<hr>
+
+<center>
+<iframe width="1400" height="700" src="https://fgu5tav0.github.io/OxSR/index.html" frameborder="0" style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5);" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe>
+</center>
+
+
+## Experiência - Universidade
+<hr>
+
+## Experiência - Universidade
+<hr>
+
+![](ima/exp_uni/uni1.jpg){.absolute top=130 left=50 width=700 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_uni/uni4.jpg){.absolute top=150 left=1200 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_uni/uni5.jpg){.absolute top=120 left=780 width=400 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_uni/uni2.jpg){.absolute top=540 left=150 width=500 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Experiência - Universidade
+<hr>
+
+![](ima/exp_uni/lab_1.jpg){.absolute top=250 left=50 width=400 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_uni/drx.jpg){.absolute top=320 left=900 width=650 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/exp_uni/camaras.jpg){.absolute top=250 left=460 width=420 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Experiência - Saída de campo
+<hr>
+
+![](ima/exp_uni/saida_1.jpg){.absolute top=200 left=50 width=550 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_uni/saida_2.jpg){.absolute top=550 left=50 width=550 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_uni/saida_3.jpg){.absolute top=220 left=630 width=420 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_uni/saida_5.jpg){.absolute top=180 left=1100 width=370 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Experiência - Seminários
+<hr>
+
+![](ima/exp_uni/seminario_1.jpg){.absolute top=200 left=50 width=650 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/exp_uni/seminario_2.jpg){.absolute top=200 left=900 width=500 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Experiência - Custos
+<hr>
+
+![](gasto.jpeg){fig-alt="height" fig-align="center" width="65%" style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+
+## Experiência - Comida
+<hr>
+
+![](ima/comida/jamon.jpg){.absolute top=130 left=50 width=300 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/comida/croqueta.jpg){.absolute top=480 left=50 width=300 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/comida/jamon_ibe.jpg){.absolute top=130 left=380 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/comida/tostada.jpg){.absolute top=590 left=380 width=400 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/comida/flamenquin.jpg){.absolute top=130 left=650 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/comida/churros.jpg){.absolute top=130 left=910 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+![](ima/comida/salmorejo.jpg){.absolute top=590 left=810 width=320 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/comida/rabo.jpeg){.absolute top=590 left=1150 width=390 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/comida/cerveja.webp){.absolute top=130 left=1280 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+<!-- com efeito  -->
+![](ima/comida/jamon.jpg){.fragment data-fragment-index="2" .absolute top=130 left=50 width=300 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/croqueta.jpg){.fragment data-fragment-index="2" .absolute top=480 left=50 width=300 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/jamon_ibe.jpg){.fragment data-fragment-index="2" .absolute top=130 left=380 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/tostada.jpg){.fragment data-fragment-index="2" .absolute top=590 left=380 width=400 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/flamenquin.jpg){.fragment data-fragment-index="2" .absolute top=130 left=650 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/churros.jpg){.fragment data-fragment-index="2" .absolute top=130 left=910 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/salmorejo.jpg){.fragment data-fragment-index="2" .absolute top=590 left=810 width=320 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/rabo.jpeg){.fragment data-fragment-index="2" .absolute top=590 left=1150 width=390 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+![](ima/comida/cerveja.webp){.fragment data-fragment-index="2" .absolute top=130 left=1280 width=250 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(100%);"}
+
+<!-- caracol -->
+
+![](ima/comida/caracol.jpg){.fragment data-fragment-index="2".absolute top=250 left=100 width=650 style="border: 5px solid gray90; border-radius: 0px; box-shadow: 0 0 400px 300px rgba(0, 0, 0, 0.3); filter:  grayscale(0%);"}
+
+![](ima/comida/caracol2.jpg){.fragment data-fragment-index="2".absolute top=250 left=900 width=550 style="border: 5px solid gray90; border-radius: 0px; box-shadow: 0 0 400px 300px rgba(0, 0, 0, 0.3); filter:  grayscale(0%);"}
+
+## Experiência - Costumes e Lugares
+<hr>
+
+![](ima/exp_uni/perou.jpg){.absolute top=120 left=50 width=800 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/vinho_e_queijo.jpg){.absolute top=120 left=1000 width=400 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+
+![](ima/castelo.jpg){.absolute top=430 left=780 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/mesquita.jpg){.absolute top=460 left=1180 width=350 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/ponte.jpg){.absolute top=500 left=50 width=700 style="border: 5px solid gray90; border-radius: 5px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5);"}
+
+
+
+## Ponto negativo!
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+
+::: {.fragment}
+
+<center>
+<b style="color: red; font-size: 65px">6 meses é pouco tempo!!</b> 
+</center>
+
+:::
+
+## e...
+<hr>
+
+
+
+![](ima/guardian.png){.absolute top=250 left=50 width=700 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+
+
+![](ima/desiguldade.png){.absolute top=200 left=780 width=750 style="border: 5px solid gray90; border-radius: 10px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Agradecimentos
+<hr>
+
+![](ima/Identidade_Visual_CAPES.png){.absolute top=200 left=100 width=350 style="border: 5px solid gray90; border-radius: 1px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/logo melhorr.png){.absolute top=550 left=590 width=400 style="border: 5px solid gray90; border-radius: 1px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/logo.png){.absolute top=600 left=50 width=500 style="border: 5px solid gray90; border-radius: 1px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/logo_ppg.png){.absolute top=150 left=650 width=650 style="border: 5px solid gray90; border-radius: 1px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+![](ima/logo_uco.png){.absolute top=550 left=1010 width=520 style="border: 5px solid gray90; border-radius: 1px; box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.5); filter: grayscale(0%);"}
+
+## Agradecimentos
+<hr>
+
+> Os circuitos de consagração social serão tanto mais eficazes quanto maior a distância social do objeto consagrado - Pierre Bourdie
+
+![](ima/agradecimento.jpg){fig-alt="height" fig-align="center" width="65%"}
+
+
+
